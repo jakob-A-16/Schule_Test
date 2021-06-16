@@ -5,6 +5,6 @@ Test Dokument Git
 4 Das ist ein Test
 5
 6
-7 Änderung lokales Repo 
+7 Änderung GitHub
 8
 8
